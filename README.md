@@ -22,7 +22,7 @@
 
   The purpose of this application is to be able to create and generate your QR Code.
   
-  A production version is available at: 
+  A production version is available at: https://shunny2.github.io/qrcode-generator/
 
 ## Technologies
   - [ReactJS](https://reactjs.org/)
