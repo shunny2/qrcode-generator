@@ -10,7 +10,7 @@
 
 </br>
 
-![qrcode](https://user-images.githubusercontent.com/72872854/198890141-cdc7195b-5a41-4bb9-91a5-b5fa8123cb96.png)
+![qrcode-generator-giff](https://user-images.githubusercontent.com/72872854/200347034-6d83034c-60aa-4301-9557-4123ca2bb971.gif)
 
 <p align="center">
 <a href="https://img.shields.io/github/watchers/shunny2/qrcode-generator?style=social"><img src="https://img.shields.io/github/watchers/shunny2/qrcode-generator?style=social" alt="Watchers"/></a>
