@@ -17,14 +17,14 @@
 <p align="center">
     <a href="https://img.shields.io/github/stars/shunny2/qrcode-generator?style=social"><img src="https://img.shields.io/github/stars/shunny2/qrcode-generator?style=social" alt="Repo Stars"/></a>
     <a href="https://img.shields.io/github/forks/shunny2/qrcode-generator?style=social"><img src="https://img.shields.io/github/forks/shunny2/qrcode-generator?style=social" alt="Forks"/></a>
-    <a href="https://img.shields.io/github/license/shunny2/qrcode-generator"><img src="https://img.shields.io/github/license/shunny2/qrcode-generator" alt="License"/></a>
+    <a href="https://img.shields.io/github/license/shunny2/qrcode-generator?style=social"><img src="https://img.shields.io/github/license/shunny2/qrcode-generator?style=social" alt="License"/></a>
 </p>
 
 ## About Application
 
   The purpose of this application is to be able to create and generate your QR Code.
   
-  A production version is available at: https://shunny2.github.io/qrcode-generator/
+  A finalized version can be accessed at https://shunny2.github.io/qrcode-generator/
 
 ## Technologies
 
